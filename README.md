@@ -33,17 +33,20 @@ Source: Kaggle Logistics Operations Database (https://www.kaggle.com/datasets/yo
 Mengidentifikasi rute dengan kontribusi pendapatan terbesar serta mengevaluasi efisiensi pendapatan per mil (Revenue per Mile):
  Rute Pendapatan Tertinggi: Rute Philadelphia ➔ Seattle mencatat total akumulasi pendapatan terbesar sebesar $10,069,054.22 (jarak 2,729 mil).
  Rute Paling Efisien: Rute Phoenix ➔ Philadelphia menghasilkan rasio pendapatan per mil tertinggi sebesar $2.71/mil, menjadikannya rute paling menguntungkan dari sisi efisiensi jarak.
+<p align="center"> <img width="80%" alt="download (14)" src="https://github.com/user-attachments/assets/0adb8d9b-a5fa-4635-a353-db2e765b079c" /> </p>
 
  2. Analisis Efisiensi & Perawatan Armada (Fleet Maintenance)
 Mengevaluasi korelasi antara usia pembuatan truk dengan biaya pemeliharaan:
  Truk Paling Boros: Truk dengan ID TRK00003 (Peterbilt 2018) memerlukan biaya perawatan terbesar mencapai $90,161.42 dengan frekuensi perbaikan sebanyak 41 kali.
  Tren Pemeliharaan: Truk keluaran tahun yang lebih lama (2015-2016) menunjukkan kecenderungan tingkat perbaikan yang tinggi dan downtime yang memakan waktu lama.
+<p align="center"> <img width="80%" alt="download (15)" src="https://github.com/user-attachments/assets/6efa9fab-f8c9-4f10-af08-26726867dda3" /> </p>
 
  3. Analisis Kinerja & Keselamatan Pengemudi (OTP vs Safety Incidents)
 Mengevaluasi persentase ketepatan waktu pengantaran (On-Time Performance / OTP) serta hubungannya dengan keselamatan berkendara:
  Tingkat OTP Keseluruhan: Perusahaan mencatat 93,196 pengiriman tepat waktu dan 74,196 pengiriman terlambat.
  Performa Terendah: Pengemudi Mary Wilson (DRV00133) mencatat OTP terendah yaitu 51.61% dari 1,366 perjalanan.
  Korelasi Keamanan: Pengemudi dengan tingkat OTP rendah memiliki korelasi kuat dengan jumlah insiden keselamatan (safety incidents) yang tinggi, mengindikasikan adanya fatigue (kelelahan) atau kurangnya standar kedisiplinan berkendara.
+<p align="center"> <img width="80%" alt="download (16)" src="https://github.com/user-attachments/assets/36b4c7ec-b386-4753-af56-9b5caeb50946" /> </p>
 
 ---
 
