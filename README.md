@@ -9,12 +9,14 @@ Analisis dilakukan menggunakan Python dengan pendekatan data-driven untuk mengha
 
  📂 Dataset & Schema
 Dataset yang digunakan berisi 14 tabel relasional operasional logistik dengan total data transaksi mencapai ratusan ribu baris. Beberapa tabel utama meliputi:
- Loads: Detail pengiriman barang (berat, tipe muatan, pendapatan).
- Trips: Detail perjalanan armada (jarak aktual, konsumsi bahan bakar).
- Routes: Data rute resmi (kota asal, kota tujuan, jarak rata-rata).
- Maintenance Records: Catatan pemeliharaan truk (biaya mekanik, suku cadang, downtime).
- Delivery Events: Log waktu penjemputan dan pengantaran muatan.
- Safety Incidents: Log kecelakaan atau pelanggaran lalu lintas oleh pengemudi.
+1. Loads: Detail pengiriman barang (berat, tipe muatan, pendapatan).
+2. Trips: Detail perjalanan armada (jarak aktual, konsumsi bahan bakar).
+3. Routes: Data rute resmi (kota asal, kota tujuan, jarak rata-rata).
+4. Maintenance Records: Catatan pemeliharaan truk (biaya mekanik, suku cadang, downtime).
+5. Delivery Events: Log waktu penjemputan dan pengantaran muatan.
+6. Safety Incidents: Log kecelakaan atau pelanggaran lalu lintas oleh pengemudi.
+
+Source: Kaggle Logistics Operations Database (https://www.kaggle.com/datasets/yogape/logistics-operations-database) oleh Yogape.
 
 ---
 
